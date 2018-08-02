@@ -14,7 +14,8 @@ it's a camping web app and been deployed at https://tranquil-fjord-10385.herokua
 created useing html,css,js,jqurey and bootstrap for client and php and mysql for back...
 ----------------------------------------------------------------------------------------------------------------
 
-<strong>secret diary</strong> - http://doryakovtestpackages-com.stackstaging.com/mysql/secret%20diary%20project/
+<strong>Instant Email Sender</strong>
+deployed on google play - https://play.google.com/store/apps/details?id=com.jacov.EmailSender
 
-created useing html,css,js,jqurey and bootstrap for client and php and mysql for back...
+a web mobile app created useing html,css,js and jqurey, ajax and php as a email script and app.js framework
 ----------------------------------------------------------------------------------------------------------------
