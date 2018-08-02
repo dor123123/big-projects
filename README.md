@@ -1,10 +1,10 @@
 # big-projects
-my front and back end big projects nodeJs ,mongodb.. and. more..
+front and back end big projects.
 
 ---------------------------------------------------------------------------------------------------------------
 
 <strong>yelp_campv12</strong>
-created in cloud 9 useing: html,css,js,nodejs,express,mongodb...
+created in cloud 9 useing: html,css,js,nodejs,boostrap,express,mongodb...
 
 it's a camping web app and been deployed at https://tranquil-fjord-10385.herokuapp.com/ as v12.
 ----------------------------------------------------------------------------------------------------------------
@@ -17,5 +17,5 @@ created useing html,css,js,jqurey and bootstrap for client and php and mysql for
 <strong>Instant Email Sender</strong>
 deployed on google play - https://play.google.com/store/apps/details?id=com.jacov.EmailSender
 
-a web mobile app created useing html,css,js and jqurey, ajax and php as a email script and app.js framework
+a web mobile app created useing html,css,js and jqurey, ajax and php as a email script and app.js framework.
 ----------------------------------------------------------------------------------------------------------------
