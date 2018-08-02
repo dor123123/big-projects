@@ -11,3 +11,7 @@ it's a camping web app and been deployed at https://tranquil-fjord-10385.herokua
 
 
 secret diary - http://doryakovtestpackages-com.stackstaging.com/mysql/secret%20diary%20project/
+
+created useing html,css,js,jqurey and bootstrap for client and php and mysql for back...
+
+-----------------------------------------------------------------------------------------------
