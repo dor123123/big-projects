@@ -19,3 +19,10 @@ deployed on google play - https://play.google.com/store/apps/details?id=com.jaco
 
 a web mobile app created useing html,css,js and jqurey, ajax and php as a email script and app.js framework.
 ----------------------------------------------------------------------------------------------------------------
+
+<strong>CloneTwitter</strong>
+deployed on - http://doryakovtestpackages-com.stackstaging.com/CloneTwitter/
+
+an twitter clone with the options of post, search and view tweets, profiles, follow/unfollow.
+a web app created useing html,css,js,booststrap,ajax,jqurey and server side are php,mysql
+----------------------------------------------------------------------------------------------------------------
